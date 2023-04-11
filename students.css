@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+}
+
+body {
+    
+    background-color:#dcb0ed;
+    
+}
+
+.headcontainer{
+    display: flex;
+}
+.studentstaff{
+    display: flex;
+    padding-top:30px;
+    padding-left: 700px;
+    
+
+}
+.studentimage{
+    position: absolute;
+    padding-left: 20px;
+}
+.student{
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.staffimage{
+   padding-left: 240px;
+    position: absolute;
+}
+.staff{
+   
+    padding-top: 40px;
+}
+button{
+    border: 30px;
+    background-color:#dcb0ed;
+}
+.student1{
+    display: flex;
+}
+.studentcontainer{
+    padding-top: 60px;
+    background: #CDCFEE;
+    margin: 80px;    
+
+}
+
+.container1{
+    display: flex;
+    gap: 100px;
+    
+}
+.container2{
+    display: flex;
+    gap: 100px;
+    padding-left: 80px;
+}
+
+.ron img{
+    height: 330px;
+}
+
+.cedric img{
+    height: 330px;
+}
+
+.hermione img{
+    height: 330px;
+}
+
+.harrypotter img{
+    height: 330px;
+}
+
+.draco img{
+    height: 330px;
+}
+
+.chochang img{
+    height: 330px;
+}
